@@ -19,8 +19,8 @@
   <meta name="Author" content="">
   <meta name="Keywords" content="">
   <meta name="Description" content="">
-  <script type="text/javascript" src="jQuery.js"></script>
-  <script type="text/javascript" src="FireBug.js"></script>  
+  <script type="text/javascript" src="jquery.min.js"></script>
+  <script type="text/javascript" src="GenerateCss.js"></script>  
  </head>
 
  <body>
